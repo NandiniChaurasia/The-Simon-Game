@@ -52,7 +52,7 @@ font-family: 'Abril Fatface', cursive;
   background-color: grey;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 990px) {
   .btn {
     margin: 15px;
     display: inline-block;
@@ -61,6 +61,9 @@ font-family: 'Abril Fatface', cursive;
     border: 7px solid black;
     border-radius: 18%;
 
+  }
+  .container{
+    width: 50%;
   }
 }
 
